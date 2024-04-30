@@ -1,0 +1,21 @@
+.paymentMethods {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.paymentCash,
+.paymentUpi,
+.paymentCard {
+  border: 1px solid gray;
+  padding: 20px 30px;
+  border-radius: 10px;
+}
+
+.paymentCash:hover,
+.paymentUpi:hover,
+.paymentCard:hover {
+  background-color: lightblue;
+  cursor: pointer;
+}

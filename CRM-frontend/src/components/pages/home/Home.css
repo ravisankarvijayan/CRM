@@ -1,0 +1,74 @@
+.profileImg {
+  overflow: hidden;
+  border-radius: 50%;
+  /* border: 1px solid black; */
+  height: 150px;
+  width: 150px;
+}
+
+.rowWrapper {
+  background-color: #fff7f7;
+}
+
+.dp {
+  height: 200px;
+  width: 200px;
+}
+
+.homeLeft {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+tr:nth-child(odd) {
+  background-color: transparent !important ;
+}
+tr:nth-child(even) {
+  background-color: transparent !important;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+.shopsSection {
+  text-decoration: underline;
+}
+
+.homeRight {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  /* border: 1px solid; */
+}
+
+.icons {
+  opacity: 0;
+  transition: opacity 0.3s linear;
+  cursor: pointer;
+  
+}
+
+.shopListWrapper:hover .icons {
+  opacity: 1;
+}

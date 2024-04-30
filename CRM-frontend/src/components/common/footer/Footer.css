@@ -1,0 +1,15 @@
+.footer-wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 0.8rem;
+  background-color: #31587c;
+  color: white;
+  border: 1px solid black;
+  height: 7vh;
+}
+
+.footer-wrapper p {
+  margin: 0;
+  padding: 10px;
+}
