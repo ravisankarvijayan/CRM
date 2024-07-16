@@ -1,13 +1,13 @@
 {
-  "type": "service_account",
-  "project_id": "praxis-window-419705",
-  "private_key_id": "994a674d9526a78863b6521f728c3ee922f39a8f",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1DjRm7tQCSug+\nNlkMHyPEi8X+cQarO0AjdDyWehPLCTnmpsoSpwgBeVcI0DD4hPolGZU6wQu92dMY\nIVWGvqq7io/HAj4IsISpfNkp6TIXMUVw24wqz6eWY/AtNVQkRJ+o6sI3MZ1WgjVS\nc6Zoql7vpa1M76ihDk5ViJ2+K+Po6IcBBUHikRmXZBH6o+tYsdXkPfn4YWVnG5JI\n27pKaxF+8idIdQB4AhMuvtwdrHKkVF1nBNVmsnhPNx8xZ7Lt4b03WKcE/dzOJRah\ni+UT9wPEWfeDv462CISBZuWcwrvQSwnIclrzrjjFW4sJyITvRR4TPZCQ6Q3LHFZk\n1p0X2EtNAgMBAAECggEACsKwXJm/Ie+/w8rJGg5Tut+vwcKH6e9YjYLgAvV4ba27\nsjihc+BXenbytERjVLHaiA/wLZDBmOP0Rs/cXGjCjujaSLKaazvKdqRD59jDMFuu\nS9nQh87Vn/uKj7VGre0iLBDfwBYDyttsPd0/u6K8h7OqDBOGSyQlhbHb5iyHnBTz\n0aicmH11eA1MGti/17tdxuFjTKmpyJsdCzXsSnhNaspmVqOeIZOUv+u5c8SDxr+N\n1kicTdpWXZtcNRzI7SGIWuTxgOCLT0Z0dUdnbchQs//iaAiAQLoYW65jFsKjnifc\nYpzCcWR7IUnvPxQ/xzPumsstDmr7jRIJXkJ4B3nkRQKBgQD/fHd/3QQ/ohq10QLA\ngoUX86+Ro/qEeEYnOVP+YkfpeTItT54xr7+V9OvTER/MA/XMJORry9zRgX12G7ne\n9lUNGx85roISRz6S9+dZ1fKGZsU63TGQKgzzjCmrIXE7QS67lp6xvQvDqZUJSUXG\n9/c9TG6WuLnayPy3JI2x/UwGrwKBgQC1a2sanNiipkzVSOyj78s855tX9fUDWvVi\nO2/Xv5yO8TCfAXO1h+7/IbzchUn4PW5eZck43zZihMnGf6Dxe7Fle+aWS+YOf6+m\ntjSRNgQQPapmSwFjngjFfLc6zPeQrNpIHecL22mzwoQnpEgwsVNpXyyUIN+9SnLN\nLHJOaxEMwwKBgQD25ev+DzMZ46h4aKKGNBw3B3J2BsgE2M7C/S3kuknQoSUSkMzK\nK5O0cVqtQPE/kdwqCsUMP5kIhmEekLDRfbC316wXbEObMmqQUS6srIuRwyN7PWO2\ndEzL2Ho0PT9WCioFcwutrIn/7pRuwvbBz8SI4qJE2gQSIQXIX3Tnu2eLVQKBgD3u\n1th19QrJpO8m/woUIZjAJGsJ30Pu+Fg5nDvWAPdXZVbS4xJ0vmVAuj26Dv980UHO\nk7wjj2hglpV6GpJ1vKC9hIGIlZgbhPZvu1BbVVXKB3L2ZhoA6FOq+M5NDLLKH5aB\nBtAoblRcskrqLW7aCnStdgV3l4oCcWCTrM4ShPaLAoGAPrFMFHuqq56OWBBFqMd1\n8ukHJgzGSLuerOAY53UBOQpToMb+Mk/8cAJ1NAIW3Lbdz1xIZKrvBTatQ1Vv6a8i\nqJ/ijsSm8CJOVXI6Pi826crz2R2c6UJ2tbbFU62FrEV1oxWgRf0fQ5auqGeNuH7F\nk4CgbIcYb+w+g4mIgicngmE=\n-----END PRIVATE KEY-----\n",
-  "client_email": "customer-relation-management@praxis-window-419705.iam.gserviceaccount.com",
-  "client_id": "106809261793701101630",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/customer-relation-management%40praxis-window-419705.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+  "type": "",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": "",
+  "universe_domain": ""
 }
